@@ -1,0 +1,2 @@
+LOG.TXT filter=lfs diff=lfs merge=lfs -text
+*.sac filter=lfs diff=lfs merge=lfs -text
