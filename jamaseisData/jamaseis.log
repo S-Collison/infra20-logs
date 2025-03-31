@@ -350,3 +350,24 @@ os:Linux 6.13.5-2-t2-noble (amd64)
 2025-03-27T14:43:15,015 INFO - StreamModel setAutoUpdate(true)
 2025-03-28T17:49:29,533 INFO - StreamModel setAutoUpdate(false)
 2025-03-28T17:49:58,825 INFO - StreamModel setAutoUpdate(true)
+2025-03-30T03:36:06,278 INFO - StreamModel setAutoUpdate(false)
+2025-03-30T15:47:44,242 INFO - StreamModel setAutoUpdate(true)
+2025-03-31T15:19:58,130 INFO - StreamModel setAutoUpdate(false)
+2025-03-31T22:13:12,916 INFO - Setting up data folder
+2025-03-31T22:13:12,920 INFO - Setting up lock file
+2025-03-31T22:13:12,922 INFO - Initializing jAmaseis version 1.16.2.319
+2025-03-31T22:13:12,932 INFO - jSerialComm version 2.9.2
+2025-03-31T22:13:12,933 INFO - java version: "11.0.26" OpenJDK 64-Bit Server VM (11.0.26+4-post-Ubuntu-1ubuntu124.04)
+os:Linux 6.13.5-2-t2-noble (amd64)
+2025-03-31T22:13:12,933 INFO - Setting up Models
+2025-03-31T22:13:12,968 INFO - (/dev/ttyUSB0)  Not Open Connection is not open but no errors
+2025-03-31T22:13:12,970 INFO - (1902K) new local data source with channel index 0
+2025-03-31T22:13:12,970 INFO - (/dev/ttyUSB0) Started serial reader
+2025-03-31T22:13:12,971 INFO - Starting User Interface
+2025-03-31T22:13:13,164 STDOUT - OpenMap(tm) Version 5.1.15
+  Copyright (C) BBNT Solutions LLC.  All rights reserved.
+  See http://openmap-java.org/ for details.
+2025-03-31T22:13:13,248 INFO - (/dev/ttyUSB0)  Not Connected Connection is open but not connected
+2025-03-31T22:13:13,249 INFO - (/dev/ttyUSB0) serial port created
+2025-03-31T22:13:13,249 INFO - (/dev/ttyUSB0)  Connected Connection is open and connected
+2025-03-31T22:13:14,517 INFO - Start-up Sequence Complete
